@@ -30,7 +30,7 @@ Este script está bajo la Licencia MIT. Consulta el archivo [LICENSE](LICENSE) p
 
 
 
-##English
+# English
 
 
 
